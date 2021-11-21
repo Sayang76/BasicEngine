@@ -1,0 +1,1800 @@
+{
+   "etag": "\"MjAyMS0xMS0yMFQwNzo0NzoxNy41MjBa\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzk0NDM3NTIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8720659087387527418",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8720659087387527418/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8720659087387527418",
+         "title": "Flywheel",
+         "updated": "2021-11-19T23:47:17-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/flywheel.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzk0MzQ1OTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2196942900328717017",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2196942900328717017/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2196942900328717017",
+         "title": "Crankshaft",
+         "updated": "2021-11-19T23:45:45-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/crankshaft.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzk0MjQyMjMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6627905457769537253",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6627905457769537253/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6627905457769537253",
+         "title": "Flywheel energy storage",
+         "updated": "2021-11-19T23:44:02-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/flywheel-energy-storage.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzk0MTQxNDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5490971908754212608",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5490971908754212608/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5490971908754212608",
+         "title": "Torque",
+         "updated": "2021-11-19T23:42:21-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/torque.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzk0MDM4NDMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4568102309464898138",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4568102309464898138/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4568102309464898138",
+         "title": "Camshaft",
+         "updated": "2021-11-19T23:40:38-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/camshaft.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzOTQyNzM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2078302853866349331",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2078302853866349331/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2078302853866349331",
+         "title": "Poppet valve",
+         "updated": "2021-11-19T23:39:02-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/poppet-valve.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzODU4ODA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7193437895538665356",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7193437895538665356/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7193437895538665356",
+         "title": "Reciprocating engine",
+         "updated": "2021-11-19T23:37:38-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/reciprocating-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzNzcxNjQyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7404730892787145050",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7404730892787145050/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7404730892787145050",
+         "title": "Timing belt (camshaft)",
+         "updated": "2021-11-19T23:36:11-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/timing-belt-camshaft.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzNjgxMTA0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1120385681783280488",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1120385681783280488/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1120385681783280488",
+         "title": "Fuel injection",
+         "updated": "2021-11-19T23:34:41-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/fuel-injection.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzNTgxMDE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3912583302007035058",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3912583302007035058/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3912583302007035058",
+         "title": "Two-stroke engine",
+         "updated": "2021-11-19T23:33:01-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/two-stroke-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzNDcwOTY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6311024103458288022",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6311024103458288022/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6311024103458288022",
+         "title": "Four-stroke engine",
+         "updated": "2021-11-19T23:31:10-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/four-stroke-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzMzYyOTk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4234389626566533962",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4234389626566533962/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4234389626566533962",
+         "title": "Overhead valve",
+         "updated": "2021-11-19T23:29:22-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/overhead-valve.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzMjc4ODMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7804334067202703020",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7804334067202703020/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7804334067202703020",
+         "title": "Overhead camshaft",
+         "updated": "2021-11-19T23:27:58-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/overhead-camshaft.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzMTcxODE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5081859450142885264",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5081859450142885264/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5081859450142885264",
+         "title": "Multi-valve",
+         "updated": "2021-11-19T23:26:11-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/multi-valve.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkzMDc2MzM0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8990853849974407662",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8990853849974407662/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8990853849974407662",
+         "title": "Connecting rod",
+         "updated": "2021-11-19T23:24:36-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/connecting-rod.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyOTc4MzY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7429216415143785272",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7429216415143785272/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7429216415143785272",
+         "title": "Air filter",
+         "updated": "2021-11-19T23:22:58-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/air-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyODgxMzAxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4144275118816402927",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4144275118816402927/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4144275118816402927",
+         "title": "Carburetor",
+         "updated": "2021-11-19T23:21:21-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/carburetor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyNzU3MjA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1815730191710515544",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1815730191710515544/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1815730191710515544",
+         "title": "Crankcase",
+         "updated": "2021-11-19T23:19:17-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/crankcase.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyNjUyNzE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3513994942115439629",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3513994942115439629/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3513994942115439629",
+         "title": "Distributor",
+         "updated": "2021-11-19T23:17:32-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/distributor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyNTYwOTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5782543385342883533",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5782543385342883533/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5782543385342883533",
+         "title": "Electronic control unit",
+         "updated": "2021-11-19T23:16:00-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/electronic-control-unit.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyNDg1NjgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7927733779558710265",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:14:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7927733779558710265/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7927733779558710265",
+         "title": "Engine control unit",
+         "updated": "2021-11-19T23:14:45-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/engine-control-unit.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyMzk1Mzg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1452961497090888343",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1452961497090888343/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1452961497090888343",
+         "title": "Fuel filter",
+         "updated": "2021-11-19T23:13:15-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/fuel-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyMzMyODUyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2751059275978946209",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2751059275978946209/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2751059275978946209",
+         "title": "Fuel pump",
+         "updated": "2021-11-19T23:12:12-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/fuel-pump.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyMjM5MTIyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7013235059211324780",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7013235059211324780/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7013235059211324780",
+         "title": "Gudgeon pin",
+         "updated": "2021-11-19T23:10:39-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/gudgeon-pin.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyMTUyOTExCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5819056927670548910",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5819056927670548910/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5819056927670548910",
+         "title": "Ignition system",
+         "updated": "2021-11-19T23:09:12-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/ignition-system.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkyMDU2NjE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5629465546088229738",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:07:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5629465546088229738/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5629465546088229738",
+         "title": "Modular Engine Management System",
+         "updated": "2021-11-19T23:07:36-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/modular-engine-management-system.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxOTY5NDcwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7632153164229488529",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7632153164229488529/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7632153164229488529",
+         "title": "Oil pump (internal combustion engine)",
+         "updated": "2021-11-19T23:06:09-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/oil-pump-internal-combustion-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxODIyODkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7512858181165359049",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7512858181165359049/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7512858181165359049",
+         "title": "Powertrain control module",
+         "updated": "2021-11-19T23:03:42-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/powertrain-control-module.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxNzQ2Mzg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2261538623141011",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2261538623141011/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2261538623141011",
+         "title": "Rocker arm",
+         "updated": "2021-11-19T23:02:26-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/rocker-arm.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxNjcyODM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5264109993342724099",
+         "kind": "blogger#post",
+         "published": "2021-11-19T23:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5264109993342724099/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5264109993342724099",
+         "title": "Spark plug",
+         "updated": "2021-11-19T23:01:12-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/spark-plug.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxNTU4MjI1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9161745354612887682",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/9161745354612887682/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/9161745354612887682",
+         "title": "Starter ring gear",
+         "updated": "2021-11-19T22:59:18-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/starter-ring-gear.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxNDI5ODI0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8510073769898585794",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8510073769898585794/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8510073769898585794",
+         "title": "Valvetrain",
+         "updated": "2021-11-19T22:57:09-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/valvetrain.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxMzU2MTg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7338826798278152107",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7338826798278152107/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/7338826798278152107",
+         "title": "NOx adsorber",
+         "updated": "2021-11-19T22:55:56-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/nox-adsorber.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxMjc3NjA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2589458331777988982",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2589458331777988982/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2589458331777988982",
+         "title": "Intercooler",
+         "updated": "2021-11-19T22:54:37-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/intercooler.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxMTgzNjcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4667888877788116271",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4667888877788116271/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4667888877788116271",
+         "title": "Powerpack (drivetrain)",
+         "updated": "2021-11-19T22:53:03-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/powerpack-drivetrain.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxMTA4Mzk3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2767440620619305041",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2767440620619305041/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2767440620619305041",
+         "title": "Six-stroke engine",
+         "updated": "2021-11-19T22:51:48-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/six-stroke-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkxMDEwODM4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3814270955363509361",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3814270955363509361/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3814270955363509361",
+         "title": "Supercharger",
+         "updated": "2021-11-19T22:50:10-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/supercharger.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwODg3NTE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8371765966637329983",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8371765966637329983/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8371765966637329983",
+         "title": "Axial engine",
+         "updated": "2021-11-19T22:48:07-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/axial-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwNzc4OTk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1183143838321004650",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1183143838321004650/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1183143838321004650",
+         "title": "Engine efficiency",
+         "updated": "2021-11-19T22:46:18-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/engine-efficiency.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwNjg5NTIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3354262163839435644",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3354262163839435644/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3354262163839435644",
+         "title": "Engine downsizing",
+         "updated": "2021-11-19T22:44:49-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/engine-downsizing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwNDQ4NDk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8379309932439686274",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8379309932439686274/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8379309932439686274",
+         "title": "Exhaust manifold",
+         "updated": "2021-11-19T22:40:48-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/exhaust-manifold.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwMzU1MTM1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1069014850004680458",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1069014850004680458/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1069014850004680458",
+         "title": "Water power engine",
+         "updated": "2021-11-19T22:39:15-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/water-power-engine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwMjIzMTEzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "413985314548762903",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/413985314548762903/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/413985314548762903",
+         "title": "Transmission (mechanics)",
+         "updated": "2021-11-19T22:37:03-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/transmission-mechanics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzkwMDk4MjAzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6275004572893925246",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6275004572893925246/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6275004572893925246",
+         "title": "Overdrive (mechanics)",
+         "updated": "2021-11-19T22:34:58-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/overdrive-mechanics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzg5OTUxNTkxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3324566094745861711",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3324566094745861711/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3324566094745861711",
+         "title": "Adjustable-speed drive",
+         "updated": "2021-11-19T22:32:31-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/adjustable-speed-drive.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzg5ODM0NjEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4412741670533987778",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4412741670533987778/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4412741670533987778",
+         "title": "Clutch",
+         "updated": "2021-11-19T22:30:34-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/clutch.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzg5NzQzODI3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8131548039975487379",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8131548039975487379/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/8131548039975487379",
+         "title": "Manual transmission",
+         "updated": "2021-11-19T22:29:03-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/manual-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzg5NTE2MjY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4358623192998689068",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4358623192998689068/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4358623192998689068",
+         "title": "Dog clutch",
+         "updated": "2021-11-19T22:25:16-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/dog-clutch.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3Mzg5MzQzNzY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1007017638571503098",
+         "kind": "blogger#post",
+         "published": "2021-11-19T22:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1007017638571503098/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1007017638571503098",
+         "title": "Non-synchronous transmission",
+         "updated": "2021-11-19T22:22:23-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/non-synchronous-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3OTMxNDIzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4532943114854655415",
+         "kind": "blogger#post",
+         "published": "2021-11-19T08:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4532943114854655415/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/4532943114854655415",
+         "title": "Torque converter",
+         "updated": "2021-11-19T08:05:31-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/torque-converter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3ODM1MDU5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6719614055316063026",
+         "kind": "blogger#post",
+         "published": "2021-11-19T08:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6719614055316063026/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6719614055316063026",
+         "title": "Turbocharger",
+         "updated": "2021-11-19T08:03:55-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/turbocharger.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3NzA2NTczCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5411314344801041549",
+         "kind": "blogger#post",
+         "published": "2021-11-19T08:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5411314344801041549/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5411314344801041549",
+         "title": "Direct-shift gearbox",
+         "updated": "2021-11-19T08:01:46-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/direct-shift-gearbox.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3NTkwNTYxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "228711520161562807",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/228711520161562807/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/228711520161562807",
+         "title": "Rohloff Speedhub",
+         "updated": "2021-11-19T07:59:50-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/rohloff-speedhub.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3NDczMjM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "519572153947590576",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/519572153947590576/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/519572153947590576",
+         "title": "Axle",
+         "updated": "2021-11-19T07:57:53-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/axle.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3MzcyOTM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6910824863879293825",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6910824863879293825/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6910824863879293825",
+         "title": "Dual-clutch transmission",
+         "updated": "2021-11-19T07:56:12-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/dual-clutch-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3Mjc3OTcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2995680876590135622",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2995680876590135622/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2995680876590135622",
+         "title": "Continuously variable transmission",
+         "updated": "2021-11-19T07:54:37-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/continuously-variable-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM3MTQzMDExCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2653764470254761513",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2653764470254761513/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2653764470254761513",
+         "title": "Hybrid Synergy Drive",
+         "updated": "2021-11-19T07:52:23-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/hybrid-synergy-drive.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM2OTg4NjQyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5215406827941244833",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5215406827941244833/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5215406827941244833",
+         "title": "Hydraulic drive system",
+         "updated": "2021-11-19T07:49:48-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/hydraulic-drive-system.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM2ODIyMzk5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6823379000504465863",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6823379000504465863/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6823379000504465863",
+         "title": "Layshaft",
+         "updated": "2021-11-19T07:47:02-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/layshaft.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM2NzMxMDAyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "907983358257849165",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/907983358257849165/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/907983358257849165",
+         "title": "Automobile pedal",
+         "updated": "2021-11-19T07:45:31-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/automobile-pedal.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM2NjAzMDQ4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6815530078211135327",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6815530078211135327/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/6815530078211135327",
+         "title": "Dog-leg gearbox",
+         "updated": "2021-11-19T07:43:23-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/dog-leg-gearbox.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM2NDg0MTY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5225090497649167198",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5225090497649167198/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5225090497649167198",
+         "title": "Gear",
+         "updated": "2021-11-19T07:41:24-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/gear.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM1OTY4NzQ4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5121628166715930333",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5121628166715930333/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/5121628166715930333",
+         "title": "List of gear nomenclature",
+         "updated": "2021-11-19T07:32:48-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/list-of-gear-nomenclature.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM1NTY3NjM1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3819383859771586513",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3819383859771586513/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3819383859771586513",
+         "title": "Automatic transmission",
+         "updated": "2021-11-19T07:26:07-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/automatic-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM1NDExMjAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "625295978797712616",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/625295978797712616/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/625295978797712616",
+         "title": "Rack and pinion",
+         "updated": "2021-11-19T07:23:31-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/rack-and-pinion.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM1MzAwNzI1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3176894289221622682",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3176894289221622682/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3176894289221622682",
+         "title": "Gear ratio",
+         "updated": "2021-11-19T07:21:40-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/gear-ratio.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM1MTMzMzc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3089424193341258627",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3089424193341258627/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/3089424193341258627",
+         "title": "Compression ratio",
+         "updated": "2021-11-19T07:18:53-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/compression-ratio.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM0ODAxOTU2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2179004403613592444",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2179004403613592444/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/2179004403613592444",
+         "title": "Wheel train (horology)",
+         "updated": "2021-11-19T07:13:21-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/wheel-train-horology.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6620403438833594067"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM3MzM0NjM2ODY1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1410607325711110521",
+         "kind": "blogger#post",
+         "published": "2021-11-19T07:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1410607325711110521/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6620403438833594067/posts/1410607325711110521",
+         "title": "Mechanical watch",
+         "updated": "2021-11-19T07:10:36-08:00",
+         "url": "http://basicenginewiki.blogspot.com/2021/11/mechanical-watch.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
